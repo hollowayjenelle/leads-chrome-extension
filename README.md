@@ -1,0 +1,1 @@
+This is a follow along project provided by Scrimba.
